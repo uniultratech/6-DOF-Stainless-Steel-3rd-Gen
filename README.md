@@ -38,6 +38,7 @@ Needed parts:
 ## Step 5: Attach the turning Servo onto the platform
 Needed parts: 
 - M3x6 Screws x4
+
 ![alt text](https://user-images.githubusercontent.com/68445659/92332427-f0f76e80-f032-11ea-936f-6c1d54a40156.png)
 
 ## Step 6.1: Assemble Arm piece 1
@@ -117,6 +118,7 @@ This step is attaching the parts from previous steps together, make sure you hav
 Needed parts: 
 - M3x8 screws x2
 - M3 nuts x2
+
 ![alt text](https://user-images.githubusercontent.com/68445659/92332445-f785e600-f032-11ea-8061-47312cdd53b7.png)
 
 ## Step 8: Assemble bottom stand
@@ -136,6 +138,7 @@ Needed parts:
 Needed parts: 
 - M3x8 screws x4
 - M3 nuts x4
+
 ![alt text](https://user-images.githubusercontent.com/68445659/92332449-f94fa980-f032-11ea-8baa-867c04c79445.png)
 
 ## Step 10.2: Attach servo onto bracket
@@ -166,6 +169,7 @@ Needed parts:
 - Mid-size bearing x1
 - M3x8 screws x4
 - M3 nuts x4
+
 ![alt text](https://user-images.githubusercontent.com/68445659/92332455-fc4a9a00-f032-11ea-9e89-acd6984b95ba.png)
 
 ## Step 10.6: Top part turning mechanism
@@ -196,6 +200,7 @@ Needed parts:
 - M4 Gasket x1
 - Mid-size bearing x1
 - M4x8 screw x1
+
 ![alt text](https://user-images.githubusercontent.com/68445659/92332458-fe145d80-f032-11ea-9404-3c02e02382a9.png)
 ![alt text](https://user-images.githubusercontent.com/68445659/92332459-fe145d80-f032-11ea-88ac-c946a386bb07.png)
 
@@ -246,6 +251,7 @@ Needed parts:
 Needed parts: 
 - M3x8 screw x4
 - M3 nut x4
+
 ![alt text](https://user-images.githubusercontent.com/68445659/92332464-010f4e00-f033-11ea-99eb-49ae7d91fdf0.png)
 
 ## Step 15.2: Assemble wrist piece to elbow connector
