@@ -1,5 +1,5 @@
 # 6-DOF-Stainless-Steel-3rd-Gen Install Guide
-The 2nd Generation 6 DOF Stainless-Steel Arm assemble guide
+The 3rd Generation 6 DOF Stainless-Steel Arm assemble guide
 
 *** NOTE *** Some words are written in chinese in the image, each step there is a translation of the needed screws.
 
